@@ -9,3 +9,4 @@ Below is a list of services, tools and apps that I use to manage information and
 * [Instapaper](http://instapaper.com) - $30/yr
 * [Reeder](https://www.reederapp.com/) - $5
 * [TextExpander](https://textexpander.com/) - $40/yr
+* [Worldbrain's Memex](https://getmemex.com/) - $36/yr
